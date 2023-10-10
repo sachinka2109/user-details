@@ -1,6 +1,7 @@
-
-
-
 tbody td{
     vertical-align: middle;
+}
+
+.invalid {
+    border-color: red;
 }

@@ -1,9 +1,10 @@
 import './App.css';
 import { Dashboard } from './components';
+import Router from './routes/Router';
 
 function App() {
   return (
-    <Dashboard/>
+    <Router/>
   );
 }
 
